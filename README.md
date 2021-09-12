@@ -11,6 +11,7 @@ git add .
 
 ## Save changes in local git
 'here you will face some difficulty at the begining. As you are going to use ["git commit -m "Instruction   Codes" -m "Codes to be used are added from local machine""] it will give - 
+    
     Author identity unknown
 
     *** Please tell me who you are.
